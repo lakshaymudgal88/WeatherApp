@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="server_url" translatable="false">https://parseapi.back4app.com/</string>
+    <string name="app_id" translatable="false">MD97Ax0BkGBk3l4ycLHnYx7Sd0KkzrAllWdhEHIP</string>
+    <string name="client_key" translatable="false">1f65ZKJEaFIij89WR2ZojZaqITwVVgsnxOnZRYBd</string>
+
+</resources>
